@@ -69,9 +69,10 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 - [Jonathan Gratch](http://people.ict.usc.edu/~gratch/)
 - [Guoying Zhao](http://www.ee.oulu.fi/~gyzhao/)
 - [Abhinav Dhall](https://sites.google.com/site/dhallabhinav/),[Learning Affect and Semantic Image analysIs (LASII) Group](http://iitrpr.ac.in/lasii/)
-- [Shiguang Shan](http://www.jdl.ac.cn/project/faceId/index_en.htm)
-- [Weihong Deng](http://www.whdeng.cn/)
-- [Wenming Zheng](http://aip.seu.edu.cn/wmzheng/)
+- [Shiguang Shan, CAS](http://www.jdl.ac.cn/project/faceId/index_en.htm)
+- [Weihong Deng, Beijing University of Posts and Telecommunications](http://www.whdeng.cn/)
+- [Wenming Zheng, Southeast University](http://aip.seu.edu.cn/wmzheng/)
+- [Shangfei Wang, USTC](http://cs.ustc.edu.cn/2010/0617/c3049a23962/page.htm)
 
 ## Related Conferences and Journals
 
