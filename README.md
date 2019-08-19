@@ -299,7 +299,8 @@ Micro-Expression From Long Videos [[paper](https://ieeexplore.ieee.org/stamp/sta
 Recognition From Still Images of Faces [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8352857)]
 
 ### IEEE Transactions on Image Processing
-- (2018) Occlusion aware facial expression recognition using
+- (2019) Reliable crowdsourcing and deep locality-preserving learning for unconstrained facial expression recognition [[paper](https://ieeexplore.ieee.org/document/8453893)]
+- (2019) Occlusion aware facial expression recognition using
 CNN with attention mechanism [[paper](https://ieeexplore.ieee.org/document/8576656)]
 - (2017) Facial Expression Recognition Based on Deep
 Evolutional Spatial-Temporal Networks [[paper](https://ieeexplore.ieee.org/document/7890464)]
